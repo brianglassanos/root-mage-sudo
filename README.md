@@ -13,3 +13,7 @@ Information &amp; Resources for learning about functions of the root (/) for Mac
 #### tmp
 #### usr
 #### var
+#### private
+#### dev
+#### mnt
+#### opt
